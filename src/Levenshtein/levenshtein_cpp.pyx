@@ -1,3 +1,4 @@
+# cython: language = c++
 # cython: freethreading_compatible = True
 
 from libc.stdint cimport uint32_t
